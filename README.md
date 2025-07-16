@@ -15,7 +15,6 @@ Will be setting up a go-fund-me, stay tuned.
 
 - ![Alt text](/email_07132025_01.png "")
 
-
 # Microsoft Security Intelligence's Libelous Terminologies; A Brief Lesson in Semantics (07_12_2025):
 - Void of description, detail, technical information, threat behavior, or summary of any kind, to which the observer is left with a default inference: Literal terminology.
 - ![Alt text](/microsoft_security_intelligence_Wacatac.png "")
@@ -36,6 +35,9 @@ Will be setting up a go-fund-me, stay tuned.
 - ![Alt text](/virustotal_results_07_11_2025.png "")
 
 
+# Additional Exhibits Containing Published Audio, Video, and Print:
 
-
+- https://www.youtube.com/watch?v=Xpzybcswpxw
+- https://www.youtube.com/watch?v=jS0PBj-GjuI
 - https://www.youtube.com/watch?v=kiPHAhDtiyc
+- https://www.youtube.com/watch?v=4Cgo4x83KFY
