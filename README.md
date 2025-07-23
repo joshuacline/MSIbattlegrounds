@@ -13,7 +13,7 @@ Will be setting up a go-fund-me, stay tuned.
 
 
 # Whack-A-Mole with Microsoft Security Intelligence's Windows Defender; Repeat Offender, But With a Twist (07_22_2025):
-- With developemnt no longer being held hostage from spooky 'Wacatac' warnings issued to users upon download, Microsoft Security Intelligence takes aim with a new threat label: Puwaders.
+- With development no longer being held hostage from spooky 'Wacatac' warnings issued to users upon download, Microsoft Security Intelligence takes aim with a new threat label: Puwaders.
 - To reiterate, Microsoft Security Intelligence is the only vendor out of 62 anti-malware companies with these 'issues'.
 - Two archives, one detection, identical contents.
 
@@ -33,6 +33,9 @@ Will be setting up a go-fund-me, stay tuned.
 - Once again void of description, detail, technical information, threat behavior, or summary of any kind, to which the observer is left with a pooey taste, plus a scary warning during download, courtesy of Windows Defender. Which frankly is more than enough to deter any potential user of the program.
 - Note: Microsoft has plans to update the current 'threat actor' naming scheme to a more palatable 'weather themed taxonomy' as indicated.
 - ![Alt text](/microsoft_security_intelligence_Puwaders.png "")
+- In search of clarification, a query on Webster's Dictionary manages to provide significantly more information.
+- ![Alt text](/libelous_terminology_puwaders.png "")
+
 
 # Microsoft Security Intelligence's Serial Bungling; Utter Incompetence or Deliberate Malicious Mishandling? (07_19_2025):
 
@@ -48,7 +51,7 @@ Will be setting up a go-fund-me, stay tuned.
 - ![Alt text](/microsoft_security_intelligence_Wacatac.png "")
 
 - Precise verbiage for this slanderous 'attack' has been located.
-- ![Alt text](/libelous_terminology_research.png "")
+- ![Alt text](/libelous_terminology_wacatac.png "")
 
 
 # Microsoft Security Intelligence Portal Response and Denial (07_12_2025):
