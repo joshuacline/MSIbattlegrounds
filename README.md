@@ -12,6 +12,21 @@ Please feel free to share with any media publications, as I will be doing the sa
 Will be setting up a go-fund-me, stay tuned.
 
 
+# The Sky Is Not The Limit, But The Beginning (08_11_2025):
+- Unrelated to Microsoft Security Intelligence, however is being mentioned for reference.
+- Unlike MSI, SkyHigh's naming scheme is logical, doesn't contain inflammatory language, and is indeed fitting.
+
+- ![Alt text](/bucolic_green_hills_ca.jpg "")
+
+- Note: The .ps1 script is merely a GUI wrapper for the .cmd script, and does not provide additional functionality aside from .iso mount & dismount during the import of boot & installation media, and building lists (plain text files) natively from within the GUI.
+- This new detection has occurred without any changes being made to the .ps1 script.
+- The 'BehavesLikeDropper' moniker makes sense, as it creates an individualized .cmd per each 'command' list item during list execution. Usage of command list items are completely optional for the end-user.
+- ![Alt text](/virustotal_results_08_11_2025.png "")
+
+- Skyhigh: A vendor that went unnoticed, that is, until receiving their endorsement.🏆
+- ![Alt text](/libelous_terminology_skyhigh.png "")
+
+
 # Whack-A-Mole with Microsoft Security Intelligence's Windows Defender; Repeat Offender, But With a Twist (07_22_2025):
 - With development no longer being held hostage from spooky 'Wacatac' warnings issued to users upon download, Microsoft Security Intelligence takes aim with a new threat label: Puwaders.
 - To reiterate, Microsoft Security Intelligence is the only vendor out of 62 anti-malware companies with these 'issues'.
