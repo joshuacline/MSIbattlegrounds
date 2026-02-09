@@ -12,6 +12,20 @@ Please feel free to share with any media publications, as I will be doing the sa
 Will be setting up a go-fund-me, stay tuned.
 
 
+# Google Reminds Us They Still Have A Voice (02_06_2026):
+- Sick and tired of being unheard, Google has thrown its vote into the mix.
+- Not exactly the corporation that comes to mind for expertise in PowerShell, CommandShell, or anything relating to Windows, however none of this matters when you're dealing with obesity of this magnitude.
+
+- ![Alt text](/matheson_dr_key_biscayne_fl.png "")
+
+- At this juncture, the GUI .ps1 script has been integrated into the .cmd file.
+- Soft velvet gloves slapping a generic 'Detected' label onto 'Gploy', whilst a mysterious third party going by the name 'Varist' takes the bullet.
+- ![Alt text](/virustotal_results_02_06_2026.png "")
+
+- Lacking any definitions or even a single reference in the English dictionary, Google's Gemini does the deciphering.
+- Frustrating as it may be for Google, not having intellectual property ownership of letter 'G' somewhere within its portfolio, they recognize a 'G' when they see one.🥇
+- ![Alt text](/libelous_terminology_varist.png "")
+
 # The Sky Is Not The Limit, But The Beginning (08_11_2025):
 - Unrelated to Microsoft Security Intelligence, however is being mentioned for reference.
 - Unlike MSI, SkyHigh's naming scheme is logical, doesn't contain inflammatory language, and is indeed fitting.
