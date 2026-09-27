@@ -19,7 +19,7 @@ Will be setting up a go-fund-me, stay tuned.
 <details>
 <summary>Think sandboxes are safe?</summary>
 
-<a href=" " target="_blank"><img src="zenbox_verdict_nonmalicious.gif" alt=" " width="720"/></a>
+<a href=" " target="_blank"><img src="zenbox_verdict_nonmalicious.gif" alt="Wake up" width="720"/></a>
 
 ***Some of the things we accept as normal fall flat on their face in court.***
 
