@@ -11,6 +11,25 @@ Here is where I will be posting correspondence, updates, and interactions with c
 Please feel free to share with any media publications, as I will be doing the same.
 Will be setting up a go-fund-me, stay tuned.
 
+# It's not a Bug: Welcome to Shifting Sand Land, a Community Based Shell Game (09_27_2026):
+- Currently there's no false positives from either of the sixety AV vendors, which means we're in the clear...right? Introducing ZenBox, featuring what appears to be mountains of malware related files on the "sandboxed" desktop upon initial submission as indicated in the screenshot below. Additionally, potential new users simply doing their due diligence reviewing the results are greeted with red, orange, and yellow prominently displayed threat level classification badges which have incorrectly, albeit underhandedly labeled my product as riskware.
+
+<a href=" " target="_blank"><img src="elysian_park_los_angeles_ca.jpg" alt=" " width="720"/></a>
+
+<details>
+<summary>Think sandboxes are safe?</summary>
+
+<a href=" " target="_blank"><img src="zenbox_verdict_nonmalicious.gif" alt=" " width="720"/></a>
+
+***Some of the things we accept as normal fall flat on their face in court.***
+
+- ZenBox undoubtedly wishes to be an authority in the business of tarnishing reputations and the careers which inevitably follow. Surely they didn't think they weren't going to be held to account for their own or underlings mistakes. Three words come to mind for ZenBox: get a mirror. The worst part is the results aren't remotely the same between runs, are ***community based*** rule submissions, and potentially trigger malicious flags with AV vendors none the wiser.
+
+<a href=" " target="_blank"><img src="zenbox_results_09_27_2026.jpg" alt=" " width="720"/></a>
+
+- From this point going forward, ZenBox has been granted in kind, a ***maliciously incompetent*** badge, along with an ***extreme danger potential for abuse*** warning, and dare I say deadly to a software developer's safety reputational index and career ***label***.
+
+</details>
 
 # Google Reminds Us They Still Have A Voice (02_06_2026):
 - Sick and tired of being unheard, Google has thrown its vote into the mix.
